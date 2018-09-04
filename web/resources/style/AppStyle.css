@@ -1,0 +1,55 @@
+body {
+    font-size: 30px;
+    font-family: Ubuntu, monospace, serif;
+}
+
+button {
+    font-size: 30px;
+}
+
+#headText {
+    font-size: 100px;
+    color: #ec0010;
+}
+
+#ul1, #ul2 {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ul1 li {
+    margin-top: 20px;
+}
+
+#ul2 li {
+    margin-top: 5px;
+}
+
+.textAreas {
+    font-size: 25px;
+    text-align: center;
+}
+
+.radioButtons {
+    height: 20px;
+    width: 20px;
+}
+
+.myLabel {
+    font-size: 30px;
+    color: #003bff;
+}
+
+.linkURL {
+    color: #ec001d;
+}
+
+.spanURL {
+    font-size: 30px;
+}
+
+.errorMSG {
+    color: #ec0010;
+    font-size: 18px;
+    margin-left: 20px;
+}
